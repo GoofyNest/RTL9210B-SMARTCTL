@@ -25,7 +25,7 @@ while the disk keeps working normally for ordinary reads and writes.
 | Enclosure | Firmware | Release (tool + firmware) | SMART block | LU‑ID block |
 | --- | --- | --- | --- | --- |
 | **Sabrent EC‑SNVE** ([Amazon](https://www.amazon.com/dp/B08RVC6F9Y)) | 1.35.6 | [Download](https://github.com/GoofyNest/RTL9210B-SMARTCTL/releases/tag/1) | ✅ Verified | ✅ Verified |
-| **ELUTENG Transparent M.2 NVMe SSD** ([Amazon](https://www.amazon.com/dp/B083XWBR2V)) | 1.33.5 | [Download](https://github.com/GoofyNest/RTL9210B-SMARTCTL/releases/tag/11) | ✅ Verified |
+| **ELUTENG Transparent M.2 NVMe SSD** ([Amazon](https://www.amazon.com/dp/B083XWBR2V)) | 1.33.5 | [Download](https://github.com/GoofyNest/RTL9210B-SMARTCTL/releases/tag/11) | ✅ Verified | ✅ Verified | 
 
 Flash the image that matches **your** enclosure's firmware version. Any RTL9210B bridge should
 work — the patch targets the firmware, not the enclosure — but the two above are the ones built
